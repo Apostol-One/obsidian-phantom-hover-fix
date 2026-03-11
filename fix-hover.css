@@ -25,7 +25,13 @@
     transform: translateZ(0);
 }
 
+.search-result-file-match {
+    will-change: background-color;
+    transform: translateZ(0);
+}
+
 /* Restore position of keyboard icon in hotkey search field */
 .input-right-decorator {
     transform: translateY(-50%) !important;
+
 }
